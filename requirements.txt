@@ -1,0 +1,11 @@
+# GUI library
+tkinter                # Built into Python, no need to install unless using PyQt
+
+# PDF generation library
+reportlab              # For generating PDFs
+fpdf2                  # Alternative lightweight PDF library
+
+# Database (SQLite is built-in, no external dependency)
+
+# Testing tools (add later if needed)
+pytest                 # Optional for unit testing
